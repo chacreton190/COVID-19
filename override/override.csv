@@ -1,0 +1,693 @@
+old_county,old_province_state,old_counrty_region,County,Province_State,Country_Region,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS
+Tarrant,Texas,US,Tarrant,Texas,US,32.77143818,-97.29101614,,,,,48439
+Del Norte,California,US,Del Norte,California,US,41.74228275,-123.8974063,,,,,06015
+,,Myanmar,,,Burma,,,,,,,
+,,Belize,,,Belize,17.1899,-88.4976,,,,,
+,Northwest Territories,Canada,,Northwest Territories,Canada,64.8255,-124.8457,,,,,
+,Diamond Princess,Canada,,Diamond Princess,Canada,,,0,,,,
+,Yukon,Canada,,Yukon,Canada,64.2823,-135,,,,,
+,,CAR,,,Central African Republic,,,,,,,
+,,Hong Kong,,Hong Kong SAR,China,,,,,,,
+,,Macao,,Macao SAR,China,,,,,,,
+,Gansu,China,,Gansu,China,35.7518,104.2861,,,,,
+,Hebei,China,,Hebei,China,37.8957,114.9042,,,,,
+,,Congo,,,Congo (Brazzaville),-0.228,15.8277,,,,,
+,,DRC,,,Congo (Kinshasa),-4.0383,21.7587,,,,,
+,,Ivory Coast,,,Cote d'Ivoire,,,,,,,
+,,Faeroe Islands,,Faroe Islands,Denmark,,,,,,,
+,,Greenland,,Greenland,Denmark,,,,,,,
+,,French Guiana,,French Guiana,France,,,,,,,
+,,French Polynesia,,French Polynesia,France,-17.6797,-149.4068,,,,,
+,,Guadeloupe,,Guadeloupe,France,,,,,,,
+,,Martinique,,Martinique,France,,,,,,,
+,,Mayotte,,Mayotte,France,,,,,,,
+,,New Caledonia,,New Caledonia,France,,,,,,,
+,,Réunion,,Reunion,France,,,,,,,
+,,St. Barth,,Saint Barthelemy,France,,,,,,,
+,,Saint Pierre Miquelon,,Saint Pierre and Miquelon,France,46.8852,-56.3159,,,,,
+,,Saint Martin,,St Martin,France,,,,,,,
+,,Vatican City,,,Holy See,,,,,,,
+,,S. Korea,,,"Korea, South",,,,,,,
+,,Mauritania,,,Mauritania,21.0079,-10.9408,,,,,
+,,MS Zaandam,,,MS Zaandam,0,0,,,,,
+,,Aruba,,Aruba,Netherlands,,,,,,,
+,,Caribbean Netherlands,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,,,,,
+,,Curaçao,,Curacao,Netherlands,,,,,,,
+,,Sint Maarten,,Sint Maarten,Netherlands,,,,,,,
+,,St. Vincent Grenadines,,,Saint Vincent and the Grenadines,,,,,,,
+,,Taiwan,,,Taiwan*,,,,,,,
+,,UAE,,,United Arab Emirates,,,,,,,
+,,Anguilla,,Anguilla,United Kingdom,18.2206,-63.0686,,,,,
+,,Bermuda,,Bermuda,United Kingdom,,,,,,,
+,,British Virgin Islands,,British Virgin Islands,United Kingdom,18.4207,-64.64,,,,,
+,,Cayman Islands,,Cayman Islands,United Kingdom,,,,,,,
+,,Channel Islands,,Channel Islands,United Kingdom,,,,,,,
+,,Falkland Islands,,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,,,,,
+,,Gibraltar,,Gibraltar,United Kingdom,,,,,,,
+,,Isle of Man,,Isle of Man,United Kingdom,,,,,,,
+,,Montserrat,,Montserrat,United Kingdom,,,,,,,
+,,Turks and Caicos,,Turks and Caicos Islands,United Kingdom,21.694,-71.7979,,,,,
+<<<<<<< HEAD,,,,,,,,,,,,
+,,UK,,,United Kingdom,,,,,,,
+,Amazonas,Colombia,,Amazonas,Colombia,,,,,,,
+,Antioquia,Colombia,,Antioquia,Colombia,,,,,,,
+,Arauca,Colombia,,Arauca,Colombia,,,,,,,
+,Atlantico,Colombia,,Atlantico,Colombia,,,,,,,
+,Bolivar,Colombia,,Bolivar,Colombia,,,,,,,
+,Boyaca,Colombia,,Boyaca,Colombia,,,,,,,
+,Caldas,Colombia,,Caldas,Colombia,,,,,,,
+,Capital District,Colombia,,Capital District,Colombia,,,,,,,
+,Caqueta,Colombia,,Caqueta,Colombia,,,,,,,
+,Casanare,Colombia,,Casanare,Colombia,,,,,,,
+,Cauca,Colombia,,Cauca,Colombia,,,,,,,
+,Cesar,Colombia,,Cesar,Colombia,,,,,,,
+,Choco,Colombia,,Choco,Colombia,,,,,,,
+,Cordoba,Colombia,,Cordoba,Colombia,,,,,,,
+,Cundinamarca,Colombia,,Cundinamarca,Colombia,,,,,,,
+,Guainia,Colombia,,Guainia,Colombia,,,,,,,
+,Guaviare,Colombia,,Guaviare,Colombia,,,,,,,
+,Huila,Colombia,,Huila,Colombia,,,,,,,
+,La Guajira,Colombia,,La Guajira,Colombia,,,,,,,
+,Magdalena,Colombia,,Magdalena,Colombia,,,,,,,
+,Meta,Colombia,,Meta,Colombia,,,,,,,
+,Narino,Colombia,,Narino,Colombia,,,,,,,
+,Norte de Santander,Colombia,,Norte de Santander,Colombia,,,,,,,
+,Putumayo,Colombia,,Putumayo,Colombia,,,,,,,
+,Quindio,Colombia,,Quindio,Colombia,,,,,,,
+,Risaralda,Colombia,,Risaralda,Colombia,,,,,,,
+,San Andres y Providencia,Colombia,,San Andres y Providencia,Colombia,,,,,,,
+,Santander,Colombia,,Santander,Colombia,,,,,,,
+,Sucre,Colombia,,Sucre,Colombia,,,,,,,
+,Tolima,Colombia,,Tolima,Colombia,,,,,,,
+,Valle del Cauca,Colombia,,Valle del Cauca,Colombia,,,,,,,
+,Vaupes,Colombia,,Vaupes,Colombia,,,,,,,
+,Vichada,Colombia,,Vichada,Colombia,,,,,,,
+,Unknown,Colombia,,Unknown,Colombia,,,,,,,
+Apache,Arizona,US,Apache,Arizona,US,,,,,,,
+Cochise,Arizona,US,Cochise,Arizona,US,,,,,,,
+Coconino,Arizona,US,Coconino,Arizona,US,,,,,,,
+Gila,Arizona,US,Gila,Arizona,US,,,,,,,
+Graham,Arizona,US,Graham,Arizona,US,,,,,,,
+Greenlee,Arizona,US,Greenlee,Arizona,US,,,,,,,
+La Paz,Arizona,US,La Paz,Arizona,US,,,,,,,
+Maricopa,Arizona,US,Maricopa,Arizona,US,,,,,,,
+Mohave,Arizona,US,Mohave,Arizona,US,,,,,,,
+Navajo,Arizona,US,Navajo,Arizona,US,,,,,,,
+Out of AZ,Arizona,US,Out of AZ,Arizona,US,,,,,,,
+Pima,Arizona,US,Pima,Arizona,US,,,,,,,
+Pinal,Arizona,US,Pinal,Arizona,US,,,,,,,
+Santa Cruz,Arizona,US,Santa Cruz,Arizona,US,,,,,,,
+Unassigned,Arizona,US,Unassigned,Arizona,US,,,,,,,
+Yavapai,Arizona,US,Yavapai,Arizona,US,,,,,,,
+Yuma,Arizona,US,Yuma,Arizona,US,,,,,,,
+=======,,,,,,,,,,,,
+,,UK,,,United Kingdom,,,,,,,
+Apache,Arizona,US,Apache,Arizona,US,,,,,,,
+Cochise,Arizona,US,Cochise,Arizona,US,,,,,,,
+Coconino,Arizona,US,Coconino,Arizona,US,,,,,,,
+Gila,Arizona,US,Gila,Arizona,US,,,,,,,
+Graham,Arizona,US,Graham,Arizona,US,,,,,,,
+Greenlee,Arizona,US,Greenlee,Arizona,US,,,,,,,
+La Paz,Arizona,US,La Paz,Arizona,US,,,,,,,
+Maricopa,Arizona,US,Maricopa,Arizona,US,,,,,,,
+Mohave,Arizona,US,Mohave,Arizona,US,,,,,,,
+Navajo,Arizona,US,Navajo,Arizona,US,,,,,,,
+Out of AZ,Arizona,US,Out of AZ,Arizona,US,,,,,,,
+Pima,Arizona,US,Pima,Arizona,US,,,,,,,
+Pinal,Arizona,US,Pinal,Arizona,US,,,,,,,
+Santa Cruz,Arizona,US,Santa Cruz,Arizona,US,,,,,,,
+Unassigned,Arizona,US,Unassigned,Arizona,US,,,,,,,
+Yavapai,Arizona,US,Yavapai,Arizona,US,,,,,,,
+Yuma,Arizona,US,Yuma,Arizona,US,,,,,,,
+>>>>>>> 54135dcd3cdac4ece01fec73b3da59ac76383ca7,,,,,,,,,,,,
+Hillsborough-Manchester,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
+Hillsborough-other,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
+Hillsborough-Other,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
+Hillsborough-Nashua,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
+Eagle River,Alaska,US,Anchorage,Alaska,US,61.14998174,-149.1426986,,,,,2020
+Gridwood,Alaska,US,Anchorage,Alaska,US,61.14998174,-149.1426986,,,,,2020
+Anchorage--Eagle River,Alaska,US,Anchorage,Alaska,US,61.14998174,-149.1426986,,,,,2020
+Anchorage--Gridwood,Alaska,US,Anchorage,Alaska,US,61.14998174,-149.1426986,,,,,2020
+Sterling,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
+Soldotna,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
+Seward,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
+Homer,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
+Kenai,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
+Kenai Peninsula--Homer,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
+Kenai Peninsula--Soldotna,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
+Kenai Peninsula--Sterling,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
+Kenai Peninsula--Seward,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
+Palmer,Alaska,US,Matanuska-Susitna,Alaska,US,62.31305045,-149.5741743,,,,,2170
+Wasilla,Alaska,US,Matanuska-Susitna,Alaska,US,62.31305045,-149.5741743,,,,,2170
+Matanuska-Susitna--Wasilla,Alaska,US,Matanuska-Susitna,Alaska,US,62.31305045,-149.5741743,,,,,2170
+Out of state,Colorado,US,Out of CO,Colorado,US,,,,,,,80008
+Philips,Colorado,US,Phillips,Colorado,US,40.59414277,-102.3577703,,,,,8095
+District of Columbia,"Washington, D.C.",US,District of Columbia,District of Columbia,US,38.90417773,-77.01655992,,,,,11001
+Desoto,Florida,US,DeSoto,Florida,US,27.18677893,-81.80941373,,,,,12027
+Unknown,Florida,US,Unassigned,Florida,US,,,,,,,90012
+Dekalb,Georgia,US,DeKalb,Georgia,US,33.76944049,-84.22396017,,,,,13089
+Mcduffie,Georgia,US,McDuffie,Georgia,US,33.47851918,-82.48252774,,,,,13189
+Mcintosh,Georgia,US,McIntosh,Georgia,US,31.49683595,-81.40163426,,,,,13191
+Non-Georgia Resident,Georgia,US,Out of GA,Georgia,US,,,,,,,80013
+Unknown,Georgia,US,Unassigned,Georgia,US,,,,,,,90013
+,,Guam,,Guam,US,13.4443,144.7937,,,,,66
+Hawaii Island,Hawaii,US,Hawaii,Hawaii,US,19.60121157,-155.5210167,,,,,15001
+Residents diagnosed Outside of HI,Hawaii,US,Out of HI,Hawaii,US,,,,,,,80015
+Adam,Idaho,US,Adams,Idaho,US,44.89333571,-116.4545247,,,,,16003
+DeWitt,Illinois,US,De Witt,Illinois,US,40.17514519,-88.90959682,,,,,17039
+La Salle,Illinois,US,LaSalle,Illinois,US,41.3442613,-88.88633881,,,,,17099
+Caroll,Indiana,US,Carroll,Indiana,US,40.5807832,-86.56198812,,,,,18015
+De Kalb,Indiana,US,DeKalb,Indiana,US,41.39804622,-84.99906934,,,,,18033
+La Porte,Indiana,US,LaPorte,Indiana,US,41.54366008,-86.74072188,,,,,18091
+Verm.,Indiana,US,Vermillion,Indiana,US,39.8523352,-87.46160542,,,,,18165
+Whitlty,Indiana,US,Whitley,Indiana,US,41.13863784,-85.50791236,,,,,18183
+Obrien,Iowa,US,O'Brien,Iowa,US,43.08310673,-95.62474482,,,,,19141
+Unknown,Kansas,US,Unassigned,Kansas,US,,,,,,,90020
+La Salle,Louisiana,US,LaSalle,Louisiana,US,31.67884782,-92.15907765,,,,,22059
+Parish Under Investigation,Louisiana,US,Unassigned,Louisiana,US,,,,,,,90022
+West Celiciana,Louisiana,US,West Feliciana,Louisiana,US,30.87882871,-91.4148538,,,,,22125
+Prince Georges,Maryland,US,Prince George's,Maryland,US,38.83070039,-76.8496441,,,,,24033
+Queen Annes,Maryland,US,Queen Anne's,Maryland,US,39.06198912,-76.03530977,,,,,24035
+St. Marys,Maryland,US,St. Mary's,Maryland,US,38.30058422,-76.6062928,,,,,24037
+Dukes and Nantucket,Massachusetts,US,Dukes and Nantucket,Massachusetts,US,41.40674725,-70.68763497,,,,,
+Dickson,Michigan,US,Manistee,Michigan,US,44.33352407,-86.05626916,,,,,26101
+Out of State,Michigan,US,Out of MI,Michigan,US,,,,,,,80026
+Other,Michigan,US,Unassigned,Michigan,US,,,,,,,90026
+Unknown,Michigan,US,Unassigned,Michigan,US,,,,,,,90026
+Wayne--Detroit,Michigan,US,Wayne,Michigan,US,42.28098405,-83.281255,,,,,26163
+Filmore,Minnesota,US,Fillmore,Minnesota,US,43.67394126,-92.08980382,,,,,27045
+Lac Qui Parle,Minnesota,US,Lac qui Parle,Minnesota,US,44.9973857,-96.17488219,,,,,27073
+LeSeur,Minnesota,US,Le Sueur,Minnesota,US,44.37136597,-93.72844721,,,,,27079
+unassign,Minnesota,US,Unassigned,Minnesota,US,,,,,,,90027
+Joplin,Missouri,US,Jasper,Missouri,US,37.20351921,-94.34050458,,,,,29097
+Kansas City,Missouri,US,Kansas City,Missouri,US,39.0997,-94.5786,,,,,
+TBD,Missouri,US,Unassigned,Missouri,US,,,,,,,90029
+Box,Nebraska,US,Box Butte,Nebraska,US,42.22079243,-103.0878834,,,,,31013
+Dona Ana,New Mexico,US,Dona Ana,New Mexico,US,32.35275771,-106.8329387,,,,,35013
+Alexander,South Carolina,US,Alexander,North Carolina,US,35.9223796,-81.17751948,,,,,37003
+Stanley,North Carolina,US,Gaston,North Carolina,US,35.29373559,-81.17477045,,,,,37071
+Saipan,Northern Mariana Islands,US,,Northern Mariana Islands,US,15.0979,145.6739,,,,,69
+Unassigned,Northern Mariana Islands,US,,Northern Mariana Islands,US,15.0979,145.6739,,,,,69
+Adam,Ohio,US,Adams,Ohio,US,38.84541072,-83.4718964,,,,,39001
+Guesnsey,Ohio,US,Guernsey,Ohio,US,40.05026529,-81.49248905,,,,,39059
+Unassigned,Ohio,US,Unassigned,Ohio,US,,,,,,,90039
+Out-of-State,Oklahoma,US,Out of OK,Oklahoma,US,,,,,,,80040
+Mckean,Pennsylvania,US,McKean,Pennsylvania,US,41.80938602,-78.56478358,,,,,42083
+,,Puerto Rico,,Puerto Rico,US,,,,,,,72
+Dekalb,Tennessee,US,DeKalb,Tennessee,US,35.97616272,-85.83689361,,,,,47041
+Out-of-state,Tennessee,US,Out of TN,Tennessee,US,,,,,,,80047
+Unknown,Tennessee,US,Unassigned,Tennessee,US,,,,,,,90047
+De Witt,Texas,US,DeWitt,Texas,US,29.08101855,-97.3568117,,,,,48123
+El Paso--Fort Bliss,Texas,US,El Paso,Texas,US,31.76980765,-106.2363275,,,,,48141
+Harris--Houston,Texas,US,Harris,Texas,US,29.86,-95.39,,,,,48201
+Harris--Non Houston,Texas,US,Harris,Texas,US,29.86,-95.39,,,,,48201
+Non-Utah resident,Utah,US,Out of UT,Utah,US,,,,,,,80049
+Unassigned Bear River,Utah,US,Bear River,Utah,US,,,,,,,90049
+Unassigned Southwest,Utah,US,Southwest Utah,Utah,US,,,,,,,90049
+unassigned,Utah,US,Unassigned,Utah,US,,,,,,,90049
+St. John,Virgin Islands,US,,Virgin Islands,US,18.3358,-64.8963,,,,,78
+St. Thomas,US Virgin Islands,US,,Virgin Islands,US,18.3358,-64.8963,,,,,78
+St. Croix,US Virgin Islands,US,,Virgin Islands,US,18.3358,-64.8963,,,,,78
+St. John,US Virgin Islands,US,,Virgin Islands,US,18.3358,-64.8963,,,,,78
+,,U.S. Virgin Islands,,Virgin Islands,US,18.3358,-64.8963,,,,,78
+Buena Vista City,Virginia,US,Buena Vista,Virginia,US,37.73484642,-79.35296097,,,,,51530
+Charke,Virginia,US,Clarke,Virginia,US,39.11271747,-77.99199425,,,,,51043
+Manassas City,Virginia,US,Manassas,Virginia,US,38.7464321,-77.48509905,,,,,51683
+Portsmouth City,Virginia,US,Norfolk,Virginia,US,36.89934014,-76.26420872,,,,,51710
+Staunton City,Virginia,US,Staunton,Virginia,US,38.15965544,-79.05979937,,,,,51790
+Unknown,Virginia,US,Unassigned,Virginia,US,,,,,,,90051
+Androscoggin,Maine,US,Androscoggin,Maine,US,44.1664747,-70.20380627,,,,,23001
+Aroostook,Maine,US,Aroostook,Maine,US,46.65926321,-68.59841248,,,,,23003
+Cumberland,Maine,US,Cumberland,Maine,US,43.8370751,-70.37226999,,,,,23005
+Franklin,Maine,US,Franklin,Maine,US,44.97330019,-70.44381045,,,,,23007
+Hancock,Maine,US,Hancock,Maine,US,44.59816444,-68.38401854,,,,,23009
+Kennebec,Maine,US,Kennebec,Maine,US,44.40759555,-69.76738544,,,,,23011
+Knox,Maine,US,Knox,Maine,US,44.11486325,-69.10529169,,,,,23013
+Lincoln,Maine,US,Lincoln,Maine,US,44.05996956,-69.54227124,,,,,23015
+Oxford,Maine,US,Oxford,Maine,US,44.49952995,-70.75682123,,,,,23017
+Penobscot,Maine,US,Penobscot,Maine,US,45.40194593,-68.65020455,,,,,23019
+Piscataquis,Maine,US,Piscataquis,Maine,US,45.83839062,-69.2860223,,,,,23021
+Sagadahoc,Maine,US,Sagadahoc,Maine,US,43.95415864,-69.85074999,,,,,23023
+Somerset,Maine,US,Somerset,Maine,US,45.51229767,-69.95995554,,,,,23025
+Unassigned,Maine,US,Unassigned,Maine,US,,,,,,,90023
+Waldo,Maine,US,Waldo,Maine,US,44.4858305,-69.12061935,,,,,23027
+Washington,Maine,US,Washington,Maine,US,45.01607142,-67.62813524,,,,,23029
+York,Maine,US,York,Maine,US,43.47808377,-70.71052375,,,,,23031
+Out of ME,Maine,US,Out of ME,Maine,US,,,,,,,80023
+unassigned,Wyoming,US,Unassigned,Wyoming,US,,,,,,,90056
+Albany,Wyoming,US,Albany,Wyoming,US,41.65498705,-105.7235415,,,,,56001
+Big Horn,Wyoming,US,Big Horn,Wyoming,US,44.52405055,-107.9960365,,,,,56003
+Campbell,Wyoming,US,Campbell,Wyoming,US,44.24886082,-105.5474404,,,,,56005
+Carbon,Wyoming,US,Carbon,Wyoming,US,41.69357844,-106.9326084,,,,,56007
+Converse,Wyoming,US,Converse,Wyoming,US,42.97272268,-105.5081848,,,,,56009
+Crook,Wyoming,US,Crook,Wyoming,US,44.58855102,-104.5697705,,,,,56011
+Fremont,Wyoming,US,Fremont,Wyoming,US,43.04183996,-108.6296893,,,,,56013
+Goshen,Wyoming,US,Goshen,Wyoming,US,42.08798185,-104.3534743,,,,,56015
+Hot Springs,Wyoming,US,Hot Springs,Wyoming,US,43.71930657,-108.4423174,,,,,56017
+Johnson,Wyoming,US,Johnson,Wyoming,US,44.04057166,-106.5845174,,,,,56019
+Laramie,Wyoming,US,Laramie,Wyoming,US,41.3070252,-104.6887497,,,,,56021
+Lincoln,Wyoming,US,Lincoln,Wyoming,US,42.26376367,-110.6563997,,,,,56023
+Natrona,Wyoming,US,Natrona,Wyoming,US,42.96180148,-106.797885,,,,,56025
+Niobrara,Wyoming,US,Niobrara,Wyoming,US,43.05607708,-104.4758896,,,,,56027
+Park,Wyoming,US,Park,Wyoming,US,44.52157546,-109.5852825,,,,,56029
+Platte,Wyoming,US,Platte,Wyoming,US,42.13299116,-104.966331,,,,,56031
+Sheridan,Wyoming,US,Sheridan,Wyoming,US,44.79048913,-106.8862389,,,,,56033
+Sublette,Wyoming,US,Sublette,Wyoming,US,42.76558279,-109.9130922,,,,,56035
+Sweetwater,Wyoming,US,Sweetwater,Wyoming,US,41.65943896,-108.8827882,,,,,56037
+Teton,Wyoming,US,Teton,Wyoming,US,43.93522482,-110.5890801,,,,,56039
+Uinta,Wyoming,US,Uinta,Wyoming,US,41.2878183,-110.5475782,,,,,56041
+Washakie,Wyoming,US,Washakie,Wyoming,US,43.90451606,-107.680187,,,,,56043
+Weston,Wyoming,US,Weston,Wyoming,US,43.83961191,-104.5674881,,,,,56045
+,,Palestine,,,West Bank and Gaza,31.9522,35.2332,,,,,
+,,Western Sahara,,,Western Sahara,24.2155,-12.8858,,,,,
+Wayne--Non Detroit,Michigan,US,Wayne,Michigan,US,42.28098405,-83.281255,,,,,26163
+Residents Diagnosed Outside of HI,Hawaii,US,Out of HI,Hawaii,US,,,,,,,80015
+Mcclain,Oklahoma,US,McClain,Oklahoma,US,35.01123903,-97.44572302,,,,,40087
+Mccurtain,Oklahoma,US,McCurtain,Oklahoma,US,34.11664328,-94.77222373,,,,,40089
+Mcintosh,Oklahoma,US,McIntosh,Oklahoma,US,35.37235506,-95.66599306,,,,,40091
+Data not available,Maryland,US,Unassigned,Maryland,US,,,,,,,90024
+Out of state,Illinois,US,Out of IL,Illinois,US,,,,,,,80017
+Mcpherson,Nebraska,US,McPherson,Nebraska,US,41.56797682,-101.0599362,,,,,31117
+Henderon,North Carolina,US,Henderson,North Carolina,US,35.33788927,-82.4766782,,,,,37089
+Siskiyou,California,US,Siskiyou,California,US,41.59198861,-122.5407434,,,,,06093
+,La Libertad,Peru,,La Libertad,Peru,-7.92139,-78.370238,,,,,
+,Piura,Peru,,Piura,Peru,-5.133361,-80.335861,,,,,
+,Piaui,Brazil,,Piaui,Brazil,-7.7183,-42.7289,,,,,
+Adams,Pennsylvania,US,Adams,Pennsylvania,US,39.87140411,-77.21610347,,,,,42001
+Allegheny,Pennsylvania,US,Allegheny,Pennsylvania,US,40.46809875,-79.98167747,,,,,42003
+Armstrong,Pennsylvania,US,Armstrong,Pennsylvania,US,40.81665618,-79.46290811,,,,,42005
+Beaver,Pennsylvania,US,Beaver,Pennsylvania,US,40.6825484,-80.34921611,,,,,42007
+Bedford,Pennsylvania,US,Bedford,Pennsylvania,US,40.00522157,-78.48998442,,,,,42009
+Berks,Pennsylvania,US,Berks,Pennsylvania,US,40.41570541,-75.92457766,,,,,42011
+Blair,Pennsylvania,US,Blair,Pennsylvania,US,40.47961444,-78.34917412,,,,,42013
+Bradford,Pennsylvania,US,Bradford,Pennsylvania,US,41.78869215,-76.51570822,,,,,42015
+Bucks,Pennsylvania,US,Bucks,Pennsylvania,US,40.33682119,-75.10836643,,,,,42017
+Butler,Pennsylvania,US,Butler,Pennsylvania,US,40.91152759,-79.91351055,,,,,42019
+Cambria,Pennsylvania,US,Cambria,Pennsylvania,US,40.49527404,-78.71377428,,,,,42021
+Cameron,Pennsylvania,US,Cameron,Pennsylvania,US,41.43625568,-78.20376845,,,,,42023
+Carbon,Pennsylvania,US,Carbon,Pennsylvania,US,40.91545395,-75.7068525,,,,,42025
+Centre,Pennsylvania,US,Centre,Pennsylvania,US,40.92058903,-77.82200624,,,,,42027
+Chester,Pennsylvania,US,Chester,Pennsylvania,US,39.97291773,-75.74768357,,,,,42029
+Clarion,Pennsylvania,US,Clarion,Pennsylvania,US,41.19265812,-79.42413524,,,,,42031
+Clearfield,Pennsylvania,US,Clearfield,Pennsylvania,US,41.00110782,-78.47592663,,,,,42033
+Clinton,Pennsylvania,US,Clinton,Pennsylvania,US,41.23255967,-77.63785995,,,,,42035
+Columbia,Pennsylvania,US,Columbia,Pennsylvania,US,41.04821986,-76.40565017,,,,,42037
+Crawford,Pennsylvania,US,Crawford,Pennsylvania,US,41.68447709,-80.10760592,,,,,42039
+Cumberland,Pennsylvania,US,Cumberland,Pennsylvania,US,40.1625372,-77.26130755,,,,,42041
+Dauphin,Pennsylvania,US,Dauphin,Pennsylvania,US,40.41377078,-76.77993242,,,,,42043
+Delaware,Pennsylvania,US,Delaware,Pennsylvania,US,39.91680171,-75.40243663,,,,,42045
+Elk,Pennsylvania,US,Elk,Pennsylvania,US,41.42822061,-78.64524744,,,,,42047
+Erie,Pennsylvania,US,Erie,Pennsylvania,US,41.99253829,-80.03301954,,,,,42049
+Fayette,Pennsylvania,US,Fayette,Pennsylvania,US,39.92041012,-79.64291195,,,,,42051
+Forest,Pennsylvania,US,Forest,Pennsylvania,US,41.51095103,-79.23229292,,,,,42053
+Franklin,Pennsylvania,US,Franklin,Pennsylvania,US,39.92956518,-77.72157791,,,,,42055
+Fulton,Pennsylvania,US,Fulton,Pennsylvania,US,39.92913544,-78.11163677,,,,,42057
+Greene,Pennsylvania,US,Greene,Pennsylvania,US,39.85746531,-80.22357106,,,,,42059
+Huntingdon,Pennsylvania,US,Huntingdon,Pennsylvania,US,40.42162652,-77.97673273,,,,,42061
+Indiana,Pennsylvania,US,Indiana,Pennsylvania,US,40.65241041,-79.08963285,,,,,42063
+Jefferson,Pennsylvania,US,Jefferson,Pennsylvania,US,41.12913106,-78.9986361,,,,,42065
+Juniata,Pennsylvania,US,Juniata,Pennsylvania,US,40.53358749,-77.39975129999998,,,,,42067
+Lackawanna,Pennsylvania,US,Lackawanna,Pennsylvania,US,41.43564672,-75.60379201,,,,,42069
+Lancaster,Pennsylvania,US,Lancaster,Pennsylvania,US,40.03904563,-76.24770128,,,,,42071
+Lawrence,Pennsylvania,US,Lawrence,Pennsylvania,US,40.99206278,-80.33393706,,,,,42073
+Lebanon,Pennsylvania,US,Lebanon,Pennsylvania,US,40.36680311,-76.45651841,,,,,42075
+Lehigh,Pennsylvania,US,Lehigh,Pennsylvania,US,40.6154815,-75.59435245,,,,,42077
+Luzerne,Pennsylvania,US,Luzerne,Pennsylvania,US,41.17823008,-75.98447579,,,,,42079
+Lycoming,Pennsylvania,US,Lycoming,Pennsylvania,US,41.34310539,-77.06629984,,,,,42081
+McKean,Pennsylvania,US,McKean,Pennsylvania,US,41.80938602,-78.56478358,,,,,42083
+Mercer,Pennsylvania,US,Mercer,Pennsylvania,US,41.30248872,-80.25816981,,,,,42085
+Mifflin,Pennsylvania,US,Mifflin,Pennsylvania,US,40.61116939,-77.61070738,,,,,42087
+Monroe,Pennsylvania,US,Monroe,Pennsylvania,US,41.05934058,-75.34031025,,,,,42089
+Montgomery,Pennsylvania,US,Montgomery,Pennsylvania,US,40.21053671,-75.36652296,,,,,42091
+Montour,Pennsylvania,US,Montour,Pennsylvania,US,41.03023987,-76.66345939,,,,,42093
+Northampton,Pennsylvania,US,Northampton,Pennsylvania,US,40.75182733,-75.30471829,,,,,42095
+Northumberland,Pennsylvania,US,Northumberland,Pennsylvania,US,40.84785433,-76.70798222,,,,,42097
+Perry,Pennsylvania,US,Perry,Pennsylvania,US,40.40206612,-77.26297447,,,,,42099
+Philadelphia,Pennsylvania,US,Philadelphia,Pennsylvania,US,40.00338507,-75.1379271,,,,,42101
+Pike,Pennsylvania,US,Pike,Pennsylvania,US,41.33155042,-75.03208106,,,,,42103
+Potter,Pennsylvania,US,Potter,Pennsylvania,US,41.74471626,-77.89559864,,,,,42105
+Schuylkill,Pennsylvania,US,Schuylkill,Pennsylvania,US,40.70497338,-76.2150785,,,,,42107
+Snyder,Pennsylvania,US,Snyder,Pennsylvania,US,40.77129231,-77.06840691,,,,,42109
+Somerset,Pennsylvania,US,Somerset,Pennsylvania,US,39.97172723,-79.02699593,,,,,42111
+Sullivan,Pennsylvania,US,Sullivan,Pennsylvania,US,41.44634738,-76.51246591,,,,,42113
+Susquehanna,Pennsylvania,US,Susquehanna,Pennsylvania,US,41.82147784,-75.80071959,,,,,42115
+Tioga,Pennsylvania,US,Tioga,Pennsylvania,US,41.77255149,-77.25433032,,,,,42117
+Unassigned,Pennsylvania,US,Unassigned,Pennsylvania,US,,,,,,,90042
+Union,Pennsylvania,US,Union,Pennsylvania,US,40.96188846,-77.05996014,,,,,42119
+Venango,Pennsylvania,US,Venango,Pennsylvania,US,41.40323442,-79.75845449,,,,,42121
+Warren,Pennsylvania,US,Warren,Pennsylvania,US,41.81304978,-79.26969577,,,,,42123
+Washington,Pennsylvania,US,Washington,Pennsylvania,US,40.19208869,-80.24582867,,,,,42125
+Wayne,Pennsylvania,US,Wayne,Pennsylvania,US,41.64938475,-75.29956506,,,,,42127
+Westmoreland,Pennsylvania,US,Westmoreland,Pennsylvania,US,40.31377979999999,-79.46615476,,,,,42129
+Wyoming,Pennsylvania,US,Wyoming,Pennsylvania,US,41.51955538,-76.01074915,,,,,42131
+York,Pennsylvania,US,York,Pennsylvania,US,39.9210089,-76.73040131,,,,,42133
+Adams,Indiana,US,Adams,Indiana,US,40.7457653,-84.93671406,,,,,18001
+Allen,Indiana,US,Allen,Indiana,US,41.09194313,-85.06800636,,,,,18003
+Bartholomew,Indiana,US,Bartholomew,Indiana,US,39.20744865,-85.89558181,,,,,18005
+Benton,Indiana,US,Benton,Indiana,US,40.60626947,-87.31093999,,,,,18007
+Blackford,Indiana,US,Blackford,Indiana,US,40.47388153,-85.32499702,,,,,18009
+Boone,Indiana,US,Boone,Indiana,US,40.0509304,-86.46841646,,,,,18011
+Brown,Indiana,US,Brown,Indiana,US,39.19605589,-86.22868909,,,,,18013
+Carroll,Indiana,US,Carroll,Indiana,US,40.5807832,-86.56198812,,,,,18015
+Cass,Indiana,US,Cass,Indiana,US,40.76135835,-86.34830753,,,,,18017
+Clark,Indiana,US,Clark,Indiana,US,38.48015445,-85.70510334,,,,,18019
+Clay,Indiana,US,Clay,Indiana,US,39.39561833,-87.11723506,,,,,18021
+Clinton,Indiana,US,Clinton,Indiana,US,40.30319754,-86.47277257,,,,,18023
+Crawford,Indiana,US,Crawford,Indiana,US,38.28814402,-86.44518825,,,,,18025
+Daviess,Indiana,US,Daviess,Indiana,US,38.70186039,-87.07185406,,,,,18027
+DeKalb,Indiana,US,DeKalb,Indiana,US,41.39804622,-84.99906934,,,,,18033
+Dearborn,Indiana,US,Dearborn,Indiana,US,39.14647946,-84.97333539,,,,,18029
+Decatur,Indiana,US,Decatur,Indiana,US,39.30712658,-85.50087166,,,,,18031
+Delaware,Indiana,US,Delaware,Indiana,US,40.22787247,-85.39732772,,,,,18035
+Dubois,Indiana,US,Dubois,Indiana,US,38.36597551,-86.8792417,,,,,18037
+Elkhart,Indiana,US,Elkhart,Indiana,US,41.59761169,-85.85875695,,,,,18039
+Fayette,Indiana,US,Fayette,Indiana,US,39.63684962,-85.17797541,,,,,18041
+Floyd,Indiana,US,Floyd,Indiana,US,38.32117957,-85.90385377,,,,,18043
+Fountain,Indiana,US,Fountain,Indiana,US,40.12361933,-87.24217689,,,,,18045
+Franklin,Indiana,US,Franklin,Indiana,US,39.4142482,-85.06062647,,,,,18047
+Fulton,Indiana,US,Fulton,Indiana,US,41.0469907,-86.26252745,,,,,18049
+Gibson,Indiana,US,Gibson,Indiana,US,38.30393723,-87.58054938,,,,,18051
+Grant,Indiana,US,Grant,Indiana,US,40.51587228,-85.65468702,,,,,18053
+Greene,Indiana,US,Greene,Indiana,US,39.03630547,-86.96223202,,,,,18055
+Hamilton,Indiana,US,Hamilton,Indiana,US,40.07306535,-86.05244729,,,,,18057
+Hancock,Indiana,US,Hancock,Indiana,US,39.82304555,-85.77566351,,,,,18059
+Harrison,Indiana,US,Harrison,Indiana,US,38.19467379,-86.10948271,,,,,18061
+Hendricks,Indiana,US,Hendricks,Indiana,US,39.76719009,-86.51037283,,,,,18063
+Henry,Indiana,US,Henry,Indiana,US,39.93029017,-85.39625719,,,,,18065
+Howard,Indiana,US,Howard,Indiana,US,40.48527731,-86.11351892,,,,,18067
+Huntington,Indiana,US,Huntington,Indiana,US,40.82907273,-85.48822092,,,,,18069
+Jackson,Indiana,US,Jackson,Indiana,US,38.9091582,-86.03851889,,,,,18071
+Jasper,Indiana,US,Jasper,Indiana,US,41.02078733,-87.11553319,,,,,18073
+Jay,Indiana,US,Jay,Indiana,US,40.43781032,-85.00576229,,,,,18075
+Jefferson,Indiana,US,Jefferson,Indiana,US,38.78576239,-85.43633383,,,,,18077
+Jennings,Indiana,US,Jennings,Indiana,US,38.99588883,-85.62710784,,,,,18079
+Johnson,Indiana,US,Johnson,Indiana,US,39.48994426,-86.10149107,,,,,18081
+Knox,Indiana,US,Knox,Indiana,US,38.68861576,-87.4194665,,,,,18083
+Kosciusko,Indiana,US,Kosciusko,Indiana,US,41.24521668,-85.86312322,,,,,18085
+LaGrange,Indiana,US,LaGrange,Indiana,US,41.64232188,-85.42674232,,,,,18087
+LaPorte,Indiana,US,LaPorte,Indiana,US,41.54366008,-86.74072188,,,,,18091
+Lake,Indiana,US,Lake,Indiana,US,41.41874274,-87.38277575,,,,,18089
+Lawrence,Indiana,US,Lawrence,Indiana,US,38.84112637,-86.48361629,,,,,18093
+Madison,Indiana,US,Madison,Indiana,US,40.16143691,-85.71964711,,,,,18095
+Marion,Indiana,US,Marion,Indiana,US,39.78163624,-86.13826325,,,,,18097
+Marshall,Indiana,US,Marshall,Indiana,US,41.32467367,-86.26185087,,,,,18099
+Martin,Indiana,US,Martin,Indiana,US,38.7099921,-86.80373186,,,,,18101
+Miami,Indiana,US,Miami,Indiana,US,40.76940965,-86.04525048,,,,,18103
+Monroe,Indiana,US,Monroe,Indiana,US,39.16130004,-86.52414358,,,,,18105
+Montgomery,Indiana,US,Montgomery,Indiana,US,40.04034823,-86.89335024,,,,,18107
+Morgan,Indiana,US,Morgan,Indiana,US,39.47899078,-86.44573375,,,,,18109
+Newton,Indiana,US,Newton,Indiana,US,40.95610449,-87.39635768,,,,,18111
+Noble,Indiana,US,Noble,Indiana,US,41.39672484,-85.41966713,,,,,18113
+Ohio,Indiana,US,Ohio,Indiana,US,38.955305,-84.96515993,,,,,18115
+Orange,Indiana,US,Orange,Indiana,US,38.5411892,-86.49523093,,,,,18117
+Owen,Indiana,US,Owen,Indiana,US,39.31145587,-86.83900724,,,,,18119
+Parke,Indiana,US,Parke,Indiana,US,39.77202286,-87.20375833,,,,,18121
+Perry,Indiana,US,Perry,Indiana,US,38.07809328,-86.63741946,,,,,18123
+Pike,Indiana,US,Pike,Indiana,US,38.40112197,-87.23574907,,,,,18125
+Porter,Indiana,US,Porter,Indiana,US,41.45986947,-87.06848888,,,,,18127
+Posey,Indiana,US,Posey,Indiana,US,38.02097333,-87.86480429,,,,,18129
+Pulaski,Indiana,US,Pulaski,Indiana,US,41.04166107,-86.69890683,,,,,18131
+Putnam,Indiana,US,Putnam,Indiana,US,39.66437981,-86.84517605,,,,,18133
+Randolph,Indiana,US,Randolph,Indiana,US,40.15734772,-85.01139319,,,,,18135
+Ripley,Indiana,US,Ripley,Indiana,US,39.10235626,-85.26212744,,,,,18137
+Rush,Indiana,US,Rush,Indiana,US,39.62002287,-85.4655599,,,,,18139
+Scott,Indiana,US,Scott,Indiana,US,38.68672078,-85.74627859,,,,,18143
+Shelby,Indiana,US,Shelby,Indiana,US,39.52305623,-85.7915857,,,,,18145
+Spencer,Indiana,US,Spencer,Indiana,US,38.01519732,-87.0079644,,,,,18147
+St. Joseph,Indiana,US,St. Joseph,Indiana,US,41.61756781,-86.29040834,,,,,18141
+Starke,Indiana,US,Starke,Indiana,US,41.27890281,-86.64686895,,,,,18149
+Steuben,Indiana,US,Steuben,Indiana,US,41.64423868,-85.00101094,,,,,18151
+Sullivan,Indiana,US,Sullivan,Indiana,US,39.08952258,-87.41414469,,,,,18153
+Switzerland,Indiana,US,Switzerland,Indiana,US,38.82767338,-85.03022429,,,,,18155
+Tippecanoe,Indiana,US,Tippecanoe,Indiana,US,40.38872739,-86.89413959,,,,,18157
+Tipton,Indiana,US,Tipton,Indiana,US,40.31123252,-86.05234925,,,,,18159
+Unassigned,Indiana,US,Unassigned,Indiana,US,,,,,,,90018
+Union,Indiana,US,Union,Indiana,US,39.62550777,-84.92497066,,,,,18161
+Vanderburgh,Indiana,US,Vanderburgh,Indiana,US,38.02658833,-87.58763124,,,,,18163
+Vermillion,Indiana,US,Vermillion,Indiana,US,39.8523352,-87.46160542,,,,,18165
+Vigo,Indiana,US,Vigo,Indiana,US,39.42944561,-87.39169027,,,,,18167
+Wabash,Indiana,US,Wabash,Indiana,US,40.84704239,-85.79328272,,,,,18169
+Warren,Indiana,US,Warren,Indiana,US,40.34728141,-87.35602659,,,,,18171
+Warrick,Indiana,US,Warrick,Indiana,US,38.08922676,-87.2716085,,,,,18173
+Washington,Indiana,US,Washington,Indiana,US,38.60219804,-86.1049363,,,,,18175
+Wayne,Indiana,US,Wayne,Indiana,US,39.8633444,-85.01044989,,,,,18177
+Wells,Indiana,US,Wells,Indiana,US,40.72934187,-85.22132966,,,,,18179
+White,Indiana,US,White,Indiana,US,40.74911165,-86.86492015,,,,,18181
+Whitley,Indiana,US,Whitley,Indiana,US,41.13863784,-85.50791236,,,,,18183
+Ada,Idaho,US,Ada,Idaho,US,,,,,,,
+Adams,Idaho,US,Adams,Idaho,US,,,,,,,
+Bannock,Idaho,US,Bannock,Idaho,US,,,,,,,
+Bear Lake,Idaho,US,Bear Lake,Idaho,US,,,,,,,
+Benewah,Idaho,US,Benewah,Idaho,US,,,,,,,
+Bingham,Idaho,US,Bingham,Idaho,US,,,,,,,
+Blaine,Idaho,US,Blaine,Idaho,US,,,,,,,
+Boise,Idaho,US,Boise,Idaho,US,,,,,,,
+Bonner,Idaho,US,Bonner,Idaho,US,,,,,,,
+Bonneville,Idaho,US,Bonneville,Idaho,US,,,,,,,
+Boundary,Idaho,US,Boundary,Idaho,US,,,,,,,
+Butte,Idaho,US,Butte,Idaho,US,,,,,,,
+Camas,Idaho,US,Camas,Idaho,US,,,,,,,
+Canyon,Idaho,US,Canyon,Idaho,US,,,,,,,
+Caribou,Idaho,US,Caribou,Idaho,US,,,,,,,
+Cassia,Idaho,US,Cassia,Idaho,US,,,,,,,
+Clark,Idaho,US,Clark,Idaho,US,,,,,,,
+Clearwater,Idaho,US,Clearwater,Idaho,US,,,,,,,
+Custer,Idaho,US,Custer,Idaho,US,,,,,,,
+Elmore,Idaho,US,Elmore,Idaho,US,,,,,,,
+Franklin,Idaho,US,Franklin,Idaho,US,,,,,,,
+Fremont,Idaho,US,Fremont,Idaho,US,,,,,,,
+Gem,Idaho,US,Gem,Idaho,US,,,,,,,
+Gooding,Idaho,US,Gooding,Idaho,US,,,,,,,
+Idaho,Idaho,US,Idaho,Idaho,US,,,,,,,
+Jefferson,Idaho,US,Jefferson,Idaho,US,,,,,,,
+Jerome,Idaho,US,Jerome,Idaho,US,,,,,,,
+Kootenai,Idaho,US,Kootenai,Idaho,US,,,,,,,
+Latah,Idaho,US,Latah,Idaho,US,,,,,,,
+Lemhi,Idaho,US,Lemhi,Idaho,US,,,,,,,
+Lewis,Idaho,US,Lewis,Idaho,US,,,,,,,
+Lincoln,Idaho,US,Lincoln,Idaho,US,,,,,,,
+Madison,Idaho,US,Madison,Idaho,US,,,,,,,
+Minidoka,Idaho,US,Minidoka,Idaho,US,,,,,,,
+Nez Perce,Idaho,US,Nez Perce,Idaho,US,,,,,,,
+Oneida,Idaho,US,Oneida,Idaho,US,,,,,,,
+Owyhee,Idaho,US,Owyhee,Idaho,US,,,,,,,
+Payette,Idaho,US,Payette,Idaho,US,,,,,,,
+Power,Idaho,US,Power,Idaho,US,,,,,,,
+Shoshone,Idaho,US,Shoshone,Idaho,US,,,,,,,
+Teton,Idaho,US,Teton,Idaho,US,,,,,,,
+Twin Falls,Idaho,US,Twin Falls,Idaho,US,,,,,,,
+Unassigned,Idaho,US,Unassigned,Idaho,US,,,,,,,
+Valley,Idaho,US,Valley,Idaho,US,,,,,,,
+Washington,Idaho,US,Washington,Idaho,US,,,,,,,
+Baker,Oregon,US,Baker,Oregon,US,,,90,2,,,
+Benton,Oregon,US,Benton,Oregon,US,,,285,6,,,
+Clackamas,Oregon,US,Clackamas,Oregon,US,,,2256,61,,,
+Clatsop,Oregon,US,Clatsop,Oregon,US,,,117,0,,,
+Columbia,Oregon,US,Columbia,Oregon,US,,,154,1,,,
+Coos,Oregon,US,Coos,Oregon,US,,,138,0,,,
+Crook,Oregon,US,Crook,Oregon,US,,,60,1,,,
+Curry,Oregon,US,Curry,Oregon,US,,,27,0,,,
+Deschutes,Oregon,US,Deschutes,Oregon,US,,,769,12,,,
+Douglas,Oregon,US,Douglas,Oregon,US,,,209,3,,,
+Gilliam,Oregon,US,Gilliam,Oregon,US,,,8,0,,,
+Grant,Oregon,US,Grant,Oregon,US,,,8,0,,,
+Harney,Oregon,US,Harney,Oregon,US,,,12,0,,,
+Hood River,Oregon,US,Hood River,Oregon,US,,,245,0,,,
+Jackson,Oregon,US,Jackson,Oregon,US,,,1039,4,,,
+Jefferson,Oregon,US,Jefferson,Oregon,US,,,513,8,,,
+Josephine,Oregon,US,Josephine,Oregon,US,,,183,2,,,
+Klamath,Oregon,US,Klamath,Oregon,US,,,273,2,,,
+Lake,Oregon,US,Lake,Oregon,US,,,28,0,,,
+Lane,Oregon,US,Lane,Oregon,US,,,964,15,,,
+Lincoln,Oregon,US,Lincoln,Oregon,US,,,472,13,,,
+Linn,Oregon,US,Linn,Oregon,US,,,466,13,,,
+Malheur,Oregon,US,Malheur,Oregon,US,,,1527,23,,,
+Marion,Oregon,US,Marion,Oregon,US,,,4447,90,,,
+Morrow,Oregon,US,Morrow,Oregon,US,,,488,6,,,
+Multnomah,Oregon,US,Multnomah,Oregon,US,,,6818,130,,,
+Polk,Oregon,US,Polk,Oregon,US,,,502,15,,,
+Sherman,Oregon,US,Sherman,Oregon,US,,,18,0,,,
+Tillamook,Oregon,US,Tillamook,Oregon,US,,,48,0,,,
+Umatilla,Oregon,US,Umatilla,Oregon,US,,,2913,41,,,
+Union,Oregon,US,Union,Oregon,US,,,435,2,,,
+Wallowa,Oregon,US,Wallowa,Oregon,US,,,28,1,,,
+Wasco,Oregon,US,Wasco,Oregon,US,,,234,3,,,
+Washington,Oregon,US,Washington,Oregon,US,,,4289,58,,,
+Wheeler,Oregon,US,Wheeler,Oregon,US,,,0,0,,,
+Yamhill,Oregon,US,Yamhill,Oregon,US,,,738,14,,,
+Unassigned,Oregon,US,Unassigned,Oregon,US,,,,,,,
+Adams,Washington,US,Adams,Washington,US,,,,,,,
+Asotin,Washington,US,Asotin,Washington,US,,,,,,,
+Benton,Washington,US,Benton,Washington,US,,,,,,,
+Chelan,Washington,US,Chelan,Washington,US,,,,,,,
+Clallam,Washington,US,Clallam,Washington,US,,,,,,,
+Clark,Washington,US,Clark,Washington,US,,,,,,,
+Columbia,Washington,US,Columbia,Washington,US,,,,,,,
+Cowlitz,Washington,US,Cowlitz,Washington,US,,,,,,,
+Douglas,Washington,US,Douglas,Washington,US,,,,,,,
+Ferry,Washington,US,Ferry,Washington,US,,,,,,,
+Franklin,Washington,US,Franklin,Washington,US,,,,,,,
+Garfield,Washington,US,Garfield,Washington,US,,,,,,,
+Grant,Washington,US,Grant,Washington,US,,,,,,,
+Mccone,Montana,US,McCone,Montana,US,47.64469406,-105.7944994,,,,,30055
+Grays Harbor,Washington,US,Grays Harbor,Washington,US,,,,,,,
+Island,Washington,US,Island,Washington,US,,,,,,,
+Jefferson,Washington,US,Jefferson,Washington,US,,,,,,,
+King,Washington,US,King,Washington,US,,,,,,,
+Kitsap,Washington,US,Kitsap,Washington,US,,,,,,,
+Kittitas,Washington,US,Kittitas,Washington,US,,,,,,,
+Klickitat,Washington,US,Klickitat,Washington,US,,,,,,,
+Lewis,Washington,US,Lewis,Washington,US,,,,,,,
+Lincoln,Washington,US,Lincoln,Washington,US,,,,,,,
+Mason,Washington,US,Mason,Washington,US,,,,,,,
+Okanogan,Washington,US,Okanogan,Washington,US,,,,,,,
+Pacific,Washington,US,Pacific,Washington,US,,,,,,,
+Pend Oreille,Washington,US,Pend Oreille,Washington,US,,,,,,,
+Pierce,Washington,US,Pierce,Washington,US,,,,,,,
+San Juan,Washington,US,San Juan,Washington,US,,,,,,,
+Skagit,Washington,US,Skagit,Washington,US,,,,,,,
+Skamania,Washington,US,Skamania,Washington,US,,,,,,,
+Snohomish,Washington,US,Snohomish,Washington,US,,,,,,,
+Spokane,Washington,US,Spokane,Washington,US,,,,,,,
+Stevens,Washington,US,Stevens,Washington,US,,,,,,,
+Thurston,Washington,US,Thurston,Washington,US,,,,,,,
+Wahkiakum,Washington,US,Wahkiakum,Washington,US,,,,,,,
+Walla Walla,Washington,US,Walla Walla,Washington,US,,,,,,,
+Whatcom,Washington,US,Whatcom,Washington,US,,,,,,,
+Whitman,Washington,US,Whitman,Washington,US,,,,,,,
+Yakima,Washington,US,Yakima,Washington,US,,,,,,,
+Unassigned,Washington,US,Unassigned,Washington,US,,,,,,,
+Barbour,West Virginia,US,Barbour,West Virginia,US,39.1307219,-80.00350858,,,,,54001
+Berkeley,West Virginia,US,Berkeley,West Virginia,US,39.46704621,-78.02414609,,,,,54003
+Boone,West Virginia,US,Boone,West Virginia,US,38.01974191,-81.69888019,,,,,54005
+Braxton,West Virginia,US,Braxton,West Virginia,US,38.70036159,-80.72011184,,,,,54007
+Brooke,West Virginia,US,Brooke,West Virginia,US,40.27367263,-80.57915332,,,,,54009
+Cabell,West Virginia,US,Cabell,West Virginia,US,38.42424062,-82.23855912,,,,,54011
+Calhoun,West Virginia,US,Calhoun,West Virginia,US,38.84315422,-81.11934872,,,,,54013
+Clay,West Virginia,US,Clay,West Virginia,US,38.46231092,-81.07652217,,,,,54015
+Doddridge,West Virginia,US,Doddridge,West Virginia,US,39.27057157,-80.70671527,,,,,54017
+Fayette,West Virginia,US,Fayette,West Virginia,US,38.02974928,-81.08286634,,,,,54019
+Gilmer,West Virginia,US,Gilmer,West Virginia,US,38.9251277,-80.85952723,,,,,54021
+Grant,West Virginia,US,Grant,West Virginia,US,39.10314817,-79.19440518,,,,,54023
+Greenbrier,West Virginia,US,Greenbrier,West Virginia,US,37.9463652,-80.45335881,,,,,54025
+Hampshire,West Virginia,US,Hampshire,West Virginia,US,39.32103553,-78.60826476,,,,,54027
+Hancock,West Virginia,US,Hancock,West Virginia,US,40.51943859,-80.57461608,,,,,54029
+Hardy,West Virginia,US,Hardy,West Virginia,US,39.00683177,-78.85855301,,,,,54031
+Harrison,West Virginia,US,Harrison,West Virginia,US,39.2853852,-80.37919577,,,,,54033
+Jackson,West Virginia,US,Jackson,West Virginia,US,38.84263974,-81.68148753,,,,,54035
+Jefferson,West Virginia,US,Jefferson,West Virginia,US,39.30776166,-77.86014147,,,,,54037
+Kanawha,West Virginia,US,Kanawha,West Virginia,US,38.33860077,-81.52857054,,,,,54039
+Lewis,West Virginia,US,Lewis,West Virginia,US,38.9947249,-80.49988181,,,,,54041
+Lincoln,West Virginia,US,Lincoln,West Virginia,US,38.172154,-82.07017953,,,,,54043
+Logan,West Virginia,US,Logan,West Virginia,US,37.8299889,-81.93528571,,,,,54045
+McDowell,West Virginia,US,McDowell,West Virginia,US,37.38002939,-81.65083669,,,,,54047
+Marion,West Virginia,US,Marion,West Virginia,US,39.50984542,-80.24244659,,,,,54049
+Marshall,West Virginia,US,Marshall,West Virginia,US,39.86064362,-80.66591062,,,,,54051
+Mason,West Virginia,US,Mason,West Virginia,US,38.77071799,-82.02524219,,,,,54053
+Mercer,West Virginia,US,Mercer,West Virginia,US,37.40481169,-81.11023142,,,,,54055
+Mineral,West Virginia,US,Mineral,West Virginia,US,39.41561583,-78.94104895,,,,,54057
+Mingo,West Virginia,US,Mingo,West Virginia,US,37.73048351,-82.13338365,,,,,54059
+Monongalia,West Virginia,US,Monongalia,West Virginia,US,39.63218457,-80.04766838,,,,,54061
+Monroe,West Virginia,US,Monroe,West Virginia,US,37.56274716,-80.54577965,,,,,54063
+Morgan,West Virginia,US,Morgan,West Virginia,US,39.55439028,-78.26311676,,,,,54065
+Nicholas,West Virginia,US,Nicholas,West Virginia,US,38.29617706,-80.79759588,,,,,54067
+Ohio,West Virginia,US,Ohio,West Virginia,US,40.0955451,-80.62203992,,,,,54069
+Pendleton,West Virginia,US,Pendleton,West Virginia,US,38.68314479,-79.35084086,,,,,54071
+Pleasants,West Virginia,US,Pleasants,West Virginia,US,39.37091679,-81.16771771,,,,,54073
+Pocahontas,West Virginia,US,Pocahontas,West Virginia,US,38.32758728,-80.00993811,,,,,54075
+Preston,West Virginia,US,Preston,West Virginia,US,39.46770987,-79.66712803,,,,,54077
+Putnam,West Virginia,US,Putnam,West Virginia,US,38.50782345,-81.9082131,,,,,54079
+Raleigh,West Virginia,US,Raleigh,West Virginia,US,37.76936795,-81.2456041,,,,,54081
+Randolph,West Virginia,US,Randolph,West Virginia,US,38.769899,-79.87919615,,,,,54083
+Ritchie,West Virginia,US,Ritchie,West Virginia,US,39.18094587,-81.06356878,,,,,54085
+Roane,West Virginia,US,Roane,West Virginia,US,38.71622686,-81.35243568,,,,,54087
+Summers,West Virginia,US,Summers,West Virginia,US,37.65390597,-80.86009693,,,,,54089
+Taylor,West Virginia,US,Taylor,West Virginia,US,39.33602617,-80.0421439,,,,,54091
+Tucker,West Virginia,US,Tucker,West Virginia,US,39.11240885,-79.57053576,,,,,54093
+Tyler,West Virginia,US,Tyler,West Virginia,US,39.46811972,-80.88772676,,,,,54095
+Upshur,West Virginia,US,Upshur,West Virginia,US,38.89285061,-80.23689136,,,,,54097
+Wayne,West Virginia,US,Wayne,West Virginia,US,38.14901357,-82.42287994,,,,,54099
+Webster,West Virginia,US,Webster,West Virginia,US,38.49370949,-80.4202023,,,,,54101
+Wetzel,West Virginia,US,Wetzel,West Virginia,US,39.6065771,-80.6401654,,,,,54103
+Wirt,West Virginia,US,Wirt,West Virginia,US,39.02775007,-81.37473928,,,,,54105
+Wood,West Virginia,US,Wood,West Virginia,US,39.20967886,-81.5162836,,,,,54107
+Wyoming,West Virginia,US,Wyoming,West Virginia,US,37.612327,-81.54511071,,,,,54109
+Unassigned,Louisiana,US,Unassigned,Louisiana,US,,,,170,,,
+Unassigned,Alabama,US,Unassigned,Alabama,US,,,,,,,90001
+Out of AL,Alabama,US,Out of AL,Alabama,US,,,,,,,80001
+,,Greece,,,Greece,,,,,1347,,
+,,Switzerland,,,Switzerland,,,,,,,
+Adams,Wisconsin,US,Adams,Wisconsin,US,,,200,3,,,
+Ashland,Wisconsin,US,Ashland,Wisconsin,US,,,61,2,,,
+Barron,Wisconsin,US,Barron,Wisconsin,US,,,420,4,,,
+Bayfield,Wisconsin,US,Bayfield,Wisconsin,US,,,82,1,,,
+Brown,Wisconsin,US,Brown,Wisconsin,US,,,7484,59,,,
+Buffalo,Wisconsin,US,Buffalo,Wisconsin,US,,,119,2,,,
+Burnett,Wisconsin,US,Burnett,Wisconsin,US,,,122,3,,,
+Calumet,Wisconsin,US,Calumet,Wisconsin,US,,,869,2,,,
+Chippewa,Wisconsin,US,Chippewa,Wisconsin,US,,,476,0,,,
+Clark,Wisconsin,US,Clark,Wisconsin,US,,,325,8,,,
+Columbia,Wisconsin,US,Columbia,Wisconsin,US,,,506,2,,,
+Crawford,Wisconsin,US,Crawford,Wisconsin,US,,,138,0,,,
+Dane,Wisconsin,US,Dane,Wisconsin,US,,,8815,41,,,
+Dodge,Wisconsin,US,Dodge,Wisconsin,US,,,1600,9,,,
+Door,Wisconsin,US,Door,Wisconsin,US,,,236,3,,,
+Douglas,Wisconsin,US,Douglas,Wisconsin,US,,,378,0,,,
+Dunn,Wisconsin,US,Dunn,Wisconsin,US,,,377,0,,,
+Eau Claire,Wisconsin,US,Eau Claire,Wisconsin,US,,,1586,6,,,
+Florence,Wisconsin,US,Florence,Wisconsin,US,,,63,0,,,
+Fond du Lac,Wisconsin,US,Fond du Lac,Wisconsin,US,,,1713,13,,,
+Forest,Wisconsin,US,Forest,Wisconsin,US,,,213,4,,,
+Grant,Wisconsin,US,Grant,Wisconsin,US,,,821,19,,,
+Green,Wisconsin,US,Green,Wisconsin,US,,,436,2,,,
+Green Lake,Wisconsin,US,Green Lake,Wisconsin,US,,,195,0,,,
+Iowa,Wisconsin,US,Iowa,Wisconsin,US,,,150,0,,,
+Iron,Wisconsin,US,Iron,Wisconsin,US,,,136,1,,,
+Jackson,Wisconsin,US,Jackson,Wisconsin,US,,,107,1,,,
+Jefferson,Wisconsin,US,Jefferson,Wisconsin,US,,,1214,7,,,
+Juneau,Wisconsin,US,Juneau,Wisconsin,US,,,326,2,,,
+Kenosha,Wisconsin,US,Kenosha,Wisconsin,US,,,3281,65,,,
+Kewaunee,Wisconsin,US,Kewaunee,Wisconsin,US,,,381,2,,,
+La Crosse,Wisconsin,US,La Crosse,Wisconsin,US,,,2568,2,,,
+Lafayette,Wisconsin,US,Lafayette,Wisconsin,US,,,217,0,,,
+Langlade,Wisconsin,US,Langlade,Wisconsin,US,,,131,2,,,
+Lincoln,Wisconsin,US,Lincoln,Wisconsin,US,,,136,1,,,
+Manitowoc,Wisconsin,US,Manitowoc,Wisconsin,US,,,861,2,,,
+Marathon,Wisconsin,US,Marathon,Wisconsin,US,,,1054,14,,,
+Marinette,Wisconsin,US,Marinette,Wisconsin,US,,,732,7,,,
+Marquette,Wisconsin,US,Marquette,Wisconsin,US,,,190,1,,,
+Menominee,Wisconsin,US,Menominee,Wisconsin,US,,,47,0,,,
+Milwaukee,Wisconsin,US,Milwaukee,Wisconsin,US,,,26860,521,,,
+Monroe,Wisconsin,US,Monroe,Wisconsin,US,,,392,2,,,
+Oconto,Wisconsin,US,Oconto,Wisconsin,US,,,662,4,,,
+Oneida,Wisconsin,US,Oneida,Wisconsin,US,,,334,2,,,
+Out of WI,Wisconsin,US,Out of WI,Wisconsin,US,,,0,0,,,
+Outagamie,Wisconsin,US,Outagamie,Wisconsin,US,,,3526,27,,,
+Ozaukee,Wisconsin,US,Ozaukee,Wisconsin,US,,,1217,19,,,
+Pepin,Wisconsin,US,Pepin,Wisconsin,US,,,55,0,,,
+Pierce,Wisconsin,US,Pierce,Wisconsin,US,,,388,6,,,
+Polk,Wisconsin,US,Polk,Wisconsin,US,,,218,2,,,
+Portage,Wisconsin,US,Portage,Wisconsin,US,,,1169,4,,,
+Price,Wisconsin,US,Price,Wisconsin,US,,,52,0,,,
+Racine,Wisconsin,US,Racine,Wisconsin,US,,,4425,94,,,
+Richland,Wisconsin,US,Richland,Wisconsin,US,,,92,4,,,
+Rock,Wisconsin,US,Rock,Wisconsin,US,,,2231,32,,,
+Rusk,Wisconsin,US,Rusk,Wisconsin,US,,,49,1,,,
+Sauk,Wisconsin,US,Sauk,Wisconsin,US,,,805,3,,,
+Sawyer,Wisconsin,US,Sawyer,Wisconsin,US,,,195,1,,,
+Shawano,Wisconsin,US,Shawano,Wisconsin,US,,,574,1,,,
+Sheboygan,Wisconsin,US,Sheboygan,Wisconsin,US,,,1443,14,,,
+St. Croix,Wisconsin,US,St. Croix,Wisconsin,US,,,810,8,,,
+Taylor,Wisconsin,US,Taylor,Wisconsin,US,,,151,3,,,
+Trempealeau,Wisconsin,US,Trempealeau,Wisconsin,US,,,531,2,,,
+Unassigned,Wisconsin,US,Unassigned,Wisconsin,US,,,0,0,,,
+Vernon,Wisconsin,US,Vernon,Wisconsin,US,,,172,0,,,
+Vilas,Wisconsin,US,Vilas,Wisconsin,US,,,168,1,,,
+Walworth,Wisconsin,US,Walworth,Wisconsin,US,,,2428,34,,,
+Washburn,Wisconsin,US,Washburn,Wisconsin,US,,,91,1,,,
+Washington,Wisconsin,US,Washington,Wisconsin,US,,,2268,32,,,
+Waukesha,Wisconsin,US,Waukesha,Wisconsin,US,,,6605,85,,,
+Waupaca,Wisconsin,US,Waupaca,Wisconsin,US,,,908,20,,,
+Waushara,Wisconsin,US,Waushara,Wisconsin,US,,,270,2,,,
+Winnebago,Wisconsin,US,Winnebago,Wisconsin,US,,,2693,23,,,
+Wood,Wisconsin,US,Wood,Wisconsin,US,,,679,4,,,
