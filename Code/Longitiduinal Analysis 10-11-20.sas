@@ -28,8 +28,11 @@ run;
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 data covid1;
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 proc import out = covid_week datafile="C:\Users\chacr\OneDrive\Documents\Coding\JHU Data\COVID-19\Modified Data Sets\Final Weekly COVID Data Set (Through 2020-10-21) (ver2).xlsx"
@@ -110,7 +113,10 @@ run;
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 proc mixed data = covid;
@@ -186,6 +192,9 @@ random int /subject = country s  type=UN G ;
 run;
 %mend;
 *Daily;
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 %sarsexp7(covid,mers_sars_exp1);
 %sarsexp7(covid,mers_sars_exp5);
