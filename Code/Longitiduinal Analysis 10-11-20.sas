@@ -27,8 +27,11 @@ datarow=2;
 run;
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 data covid1;
 =======
+=======
+>>>>>>> Stashed changes
 proc import out = covid_week datafile="C:\Users\chacr\OneDrive\Documents\Coding\JHU Data\COVID-19\Modified Data Sets\Final Weekly COVID Data Set (Through 2020-10-21) (ver2).xlsx"
 dbms=xlsx replace;
 getnames=Yes;
@@ -106,7 +109,10 @@ run;
 
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 proc mixed data = covid;
 class  country;
 model case_count = date/s;
@@ -144,6 +150,43 @@ random int /subject = country s  type=UN G ;
 run;
 %mend;
 *Daily;
+<<<<<<< Updated upstream
+=======
+%sarsexp(covid,mers_sars_exp1);
+%sarsexp(covid,mers_sars_exp5);
+%sarsexp(covid,mers_sars_exp10);
+%sarsexp(covid,mers_sars_exp20);
+%sarsexp(covid,mers_sars_exp100);
+%sarsexp(covid,mers_sars_exp200);
+%sarsexp(covid,mers_sars_exp300);
+%sarsexp(covid,mers_sars_exp400);
+%sarsexp(covid,mers_sars_exp500);
+%sarsexp(covid,mers_sars_exp1000);
+*Weekly;
+%sarsexp(covid_week,mers_sars_exp1);
+%sarsexp(covid_week,mers_sars_exp5);
+%sarsexp(covid_week,mers_sars_exp10);
+%sarsexp(covid_week,mers_sars_exp20);
+%sarsexp(covid_week,mers_sars_exp100);
+%sarsexp(covid_week,mers_sars_exp200);
+%sarsexp(covid_week,mers_sars_exp300);
+%sarsexp(covid_week,mers_sars_exp400);
+%sarsexp(covid_week,mers_sars_exp500);
+%sarsexp(covid_week,mers_sars_exp1000);
+
+*Proc Mixed Case Count SARS & MERS Exp Sensitivity Analysis (With Lagged 7 case count);
+%macro sarsexp7(dset ,exp_level);
+DM ODSRESULTS "CLEAR;";
+DM LOG "CLEAR;";
+proc mixed data = &dset;
+class &exp_level country;
+model case7 = pop_2020 gdp_in_mil_us total_score stay_home &exp_level/s;
+random int /subject = country s  type=UN G ;
+/*repeated date/subject=country;*/
+run;
+%mend;
+*Daily;
+>>>>>>> Stashed changes
 %sarsexp7(covid,mers_sars_exp1);
 %sarsexp7(covid,mers_sars_exp5);
 %sarsexp7(covid,mers_sars_exp10);
