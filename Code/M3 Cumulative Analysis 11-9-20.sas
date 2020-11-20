@@ -10,7 +10,7 @@ QUIT;
 DM ODSRESULTS "CLEAR;";
 DM LOG "CLEAR;";
 
-proc import out = cum datafile="C:\Users\chacr\OneDrive\Documents\Coding\JHU Data\COVID-19\Modified Data Sets\COVID Cumulative Incidence (Through 2020-11-06) (ver2).xlsx"
+proc import out = cum datafile="C:\Users\chacr\OneDrive\Documents\Coding\JHU Data\COVID-19\Modified Data Sets\COVID Cumulative Incidence (Through 2020-11-15) (ver2).xlsx"
 dbms=xlsx replace;
 getnames=Yes;
 datarow=2;
@@ -31,6 +31,7 @@ DM LOG "CLEAR;";
 *Examining the measures of central tendency;
 proc means mean min max range var std data =cum1;
 var case_incid_100k death_incid_100k;
+title'Measures of Central Tendency For Cumulative Incidence Data';
 output out = mean_anal mean=casein_mean deathin_mean var=casein_var deathin_var;
 run;
 
