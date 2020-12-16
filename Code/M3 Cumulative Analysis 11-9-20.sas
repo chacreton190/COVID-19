@@ -10,7 +10,7 @@ QUIT;
 DM ODSRESULTS "CLEAR;";
 DM LOG "CLEAR;";
 
-proc import out = cum datafile="C:\Users\chacr\OneDrive\Documents\Coding\JHU Data\COVID-19\Modified Data Sets\COVID Cumulative Incidence (Through 2020-11-15) (ver2).xlsx"
+proc import out = cum datafile="C:\Users\chacr\OneDrive\Documents\Coding\JHU Data\COVID-19\Modified Data Sets\COVID Cumulative Incidence (Through 2020-11-20) (ver2).xlsx"
 dbms=xlsx replace;
 getnames=Yes;
 datarow=2;
@@ -20,6 +20,7 @@ data cum1;
 set cum;
 if case_incid_100k = 0 then case_incid_100k =.;
 if death_incid_100k = 0 then death_incid_100k =.;
+if sdi = 0 then sdi = .;
 nl_death_in = log(death_incid_100k);
 nl_case_in = log(case_incid_100k);
 run;
@@ -49,20 +50,70 @@ proc univariate data = cum1 normal plots;
 var case_incid_100k death_incid_100k nl_death_in nl_case_in;
 run;
 *Examining Correlations;
+
 proc corr data = cum1;
-var case_incid_100k	death_incid_100k pop_2020 pop_den_per_sqkm un_population_division_median_ag diabetes_prevalence__of_populati mers_sars_quart us_dollars_in_mil total_score SI_stay_home sdi;
+var case_incid_100k	death_incid_100k pop_2020 pop_den_per_sqkm us_dollars_in_mil un_population_division_median_ag;
+title'Correlation Analysis Dependent Variables and Demographics'; 
+run;
+
+
+proc corr data = cum1;
+var case_incid_100k	death_incid_100k deaths_smoking_sex_both_age_age_ obesity_ihme_2019 prevalence_hivaids_sex_both_age_ deaths_hivaids_sex_both_age_age_ diabetes_prevalence__of_populati;
+title'Correlation Analysis Dependent Variables and Comorbities'; 
+run;
+
+proc corr data = cum1;
+var case_incid_100k	death_incid_100k  healthcare_readiness quarantine_efficiency total_score;
+title'Correlation Analysis Dependent Variables and Government Quality Part 1'; 
+run;
+
+
+proc corr data = cum1;
+var case_incid_100k	death_incid_100k  mers_sars_quart gov_efficiency monitoring_and_detection emergency_preparedness country_vulnerability;
+title'Correlation Analysis Dependent Variables and Government Quality Part 2'; 
+run;
+
+proc corr data = cum1;
+var case_incid_100k	death_incid_100k SI_work_close SI_public_events SI_large_gather SI_domestic_travel SI_school_close SI_public_transpo SI_stay_home sdi;
+title'Correlation Analysis Dependent Variables and Control Measures'; 
 run;
 
 proc sgscatter data = cum1;
 matrix case_incid_100k	death_incid_100k pop_2020 pop_den_per_sqkm un_population_division_median_ag diabetes_prevalence__of_populati mers_sars_quart us_dollars_in_mil total_score SI_stay_home sdi;
+run;
+
+proc sgscatter data = cum1 ;
+matrix case_incid_100k	death_incid_100k nl_case_in nl_death_in sdi day_num;
+run;
+
+proc corr data = cum1 plots(maxpoints=none)=matrix(histogram);
+var case_incid_100k	death_incid_100k  sdi day_num;
+title'Outcomes & SDI, Days to Peak';
+run;
+
+proc corr data = cum1 plots(maxpoints=none)=matrix(histogram);
+var nl_case_in nl_death_in sdi day_num;
+title'Natural Log of Outcomes & SDI, Days to Peak';
 run;
 	*the sdi seems to be a useless measure!!!!! but it is also bunched up around 100 way?????; 
 	
 *////////////////////////////////////////////////////////////////////////////////////////////////;
 *///////////////////////////////////////Model Selection/////////////////////////////////////////////////////////;
 *A negative binomial model seems to be the preference here;
+proc genmod data =cum1;
+class mers_sars_quart;
+model case_incid_100k=/dist=negbin link=log;
+run;
 
+proc genmod data =cum1;
+class sars_quart;
+model case_incid_100k= pop_den_per_sqkm un_population_division_median_ag monitoring_and_detection sars_quart day_num sdi/dist=negbin link=log;
+run;
 
+proc genmod data =cum1;
+class sars_quart;
+model death_incid_100k= pop_den_per_sqkm un_population_division_median_ag monitoring_and_detection  sars_quart sdi day_num/dist=negbin link=log;
+run;
 *///////////////////////////////////////Final Model/////////////////////////////////////////////////////////;
 
 
